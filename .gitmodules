@@ -1,0 +1,15 @@
+[submodule "Exercises/sdb_exercise02"]
+	path = Exercises/sdb_exercise02
+	url = https://inf-git.th-rosenheim.de/studnguyhu5698/sdb_exercise02.git
+[submodule "Exercises/sdb_exercise03"]
+	path = Exercises/sdb_exercise03
+	url = https://inf-git.th-rosenheim.de/studnguyhu5698/sdb_exercise03.git
+[submodule "Exercises/sdb_exercise04"]
+	path = Exercises/sdb_exercise04
+	url = https://inf-git.th-rosenheim.de/studnguyhu5698/sdb_exercise04.git
+[submodule "Exercises/sdb_exercise05"]
+	path = Exercises/sdb_exercise05
+	url = https://inf-git.th-rosenheim.de/studnguyhu5698/sdb_exercise05.git
+[submodule "Exercises/sdb_exercise06"]
+	path = Exercises/sdb_exercise06
+	url = https://inf-git.th-rosenheim.de/studnguyhu5698/sdb_exercise06.git
