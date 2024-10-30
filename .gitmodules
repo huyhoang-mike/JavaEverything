@@ -13,3 +13,9 @@
 [submodule "Exercises/sdb_exercise06"]
 	path = Exercises/sdb_exercise06
 	url = https://inf-git.th-rosenheim.de/studnguyhu5698/sdb_exercise06.git
+[submodule "modules/sdb_exercise02"]
+	path = modules/sdb_exercise02
+	url = https://inf-git.th-rosenheim.de/studnguyhu5698/sdb_exercise02.git
+[submodule "modules/sdb_exercise03"]
+	path = modules/sdb_exercise03
+	url = https://inf-git.th-rosenheim.de/studnguyhu5698/sdb_exercise03.git
